@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+a {
+    color: black;
+}
+div {
+  text-align: center !important;
+}
+
+.mt {
+    margin-top: 20px;
+}
+
+button {
+    margin-left: 10px;
+}
+
+input {
+    margin-left: 10px;
+}
+
+html {
+    background-image: linear-gradient(45deg, white, #213964);
+}
+
+label {
+    color: black;
+    font-family: 'Brush Script MT', cursive;
+    margin-left: 10px;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+h1 {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    color: #281414;
+    z-index: 10;
+    margin: 0;
+    padding: 0;
+}
+
+.localizar {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: none;
+    border: none;
+    z-index: 10;
+}
+
+.localizar img {
+    width: 30px;
+    cursor: pointer;
+}
