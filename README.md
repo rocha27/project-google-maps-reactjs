@@ -4,6 +4,7 @@ Projeto ReactJs consumindo api do Google Maps
 feito com o arquivos em javascript procurando manter o mais simples possivel.
 
 Funcionalidades:
+
 1- Para pegar a longitude e latitude foi usado a propriedade useStade.
 
 2- É possivel também marcar no mapa foi usado as propriedades de useCallBack
