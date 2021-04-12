@@ -7,6 +7,6 @@ Funcionalidades:
 
 1- Para pegar a longitude e latitude foi usado a propriedade useStade.
 
-2- É possivel também marcar no mapa foi usado as propriedades de useCallBack
+2- É possivel também marcar o mapa foi usado as propriedades de useCallBack
 
 3- Entre as funcionalidades mais interessantes usadas foi onde localizo o usuário com o navigator.geolocation que seria em uma bússula no canto superior direito do usuário
